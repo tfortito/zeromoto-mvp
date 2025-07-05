@@ -1,0 +1,20 @@
+[
+  {
+    "ride_id": "RIDE001",
+    "user_id": "USR001",
+    "start_time": "2025-07-03T09:15:00Z",
+    "end_time": "2025-07-03T09:30:00Z",
+    "distance_km": 2.5,
+    "co2_saved_g": 250,
+    "zmt_earned": 0.00025
+  },
+  {
+    "ride_id": "RIDE002",
+    "user_id": "USR002",
+    "start_time": "2025-07-03T10:00:00Z",
+    "end_time": "2025-07-03T10:20:00Z",
+    "distance_km": 3.7,
+    "co2_saved_g": 370,
+    "zmt_earned": 0.00037
+  }
+]

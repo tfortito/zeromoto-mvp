@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "USR001",
+    "name": "Juan Morales",
+    "email": "juan@zeromoto.app",
+    "role": "rider",
+    "fleet_id": "FLEET001",
+    "total_zmt": 0.85,
+    "joined_at": "2025-07-01T10:00:00Z"
+  },
+  {
+    "user_id": "USR002",
+    "name": "Sara Becker",
+    "email": "sara@ecoexpress.eu",
+    "role": "rider",
+    "fleet_id": "FLEET001",
+    "total_zmt": 0.43,
+    "joined_at": "2025-07-02T09:30:00Z"
+  }
+]
